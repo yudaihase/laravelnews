@@ -84,7 +84,7 @@ function hsc($protect)
     <section class="main">
         <h2 class="subTitle">さぁ、最新のニュースをシェアしましょう</h2>
 
-        <form action="dbc.php" method="POST">
+        <form action="index.php" method="POST">
             <div class='titleContainer'>
                 <p class='nameFlex'>title: </p>
                 <input type='text' name='title' class="inputFlex">
